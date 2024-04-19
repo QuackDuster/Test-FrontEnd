@@ -37,7 +37,7 @@ Ahora solo quedaría dirigirte a tu navegador e ingresar a la dirección: `http:
 
 ## Deployment
 
-Si gustas puedes visualizarlo desde esta página: [Parte 1 Deploy](https://quackduster.github.io/FrontEnd-Test/)
+Si gustas puedes visualizarlo desde esta página: [Parte 1 Deploy](https://test-frontend-parte1.netlify.app)
 
 ## Parte 2
 
