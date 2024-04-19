@@ -46,7 +46,3 @@ Realizar un archivo html para desplegar los diferentes resultados que son requer
 ## Instrucciones para inicializar y correr el proyecto
 
 Unicamente es necesario abrir el archivo results.html y podras observar los resultados que pide que muestre en pantalla asi como probar la funcionalidad de busqueda de albumes.
-
-## Deployment
-
-Si gustas puedes visualizarlo desde esta página: [Parte 2 Deploy](https://quackduster.github.io/FrontEnd-Test/)
