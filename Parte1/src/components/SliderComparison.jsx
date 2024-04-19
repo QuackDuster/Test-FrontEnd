@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
-import ImgDesktop from '../assets/car1-web.jpg';
-import ImgDesktop2 from '../assets/car2-web.jpg';
+import ImgDesktop from '../assets/car1-back.webp';
+import ImgDesktop2 from '../assets/car2-back.webp';
 import ImgMobile from '../assets/car1-mobile.jpg';
 import ImgMobile2 from '../assets/car2-mobile.jpg';
 
@@ -52,7 +52,7 @@ export default function SliderComparison() {
 
   return (
     <div>
-      <div ref={sliderContainer} className='max-h-full relative select-none pointer-events-none'>
+      <div ref={sliderContainer} className='max-h-2xl relative select-none pointer-events-none'>
         {isLargerThanLG ? (
           <img
             src={ImgDesktop}
